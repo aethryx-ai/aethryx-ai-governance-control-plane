@@ -29,9 +29,9 @@ This repository introduces the **AI Governance Control Plane (Aethryx)** — ena
 ## Core Idea
 
 Governance shifts from:
-- checklist → control system  
-- policy → executable logic  
-- audit → runtime enforcement  
+- checklist to control system  
+- policy to executable logic  
+- audit to runtime enforcement  
 
 ## Aethryx Perspective
 
